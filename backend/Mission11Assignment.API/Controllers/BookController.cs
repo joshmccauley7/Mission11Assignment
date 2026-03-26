@@ -20,9 +20,15 @@ namespace WaterProject.API.Controllers
             int pageSize = 5,
             int pageNum = 1,
             string? sortBy = null,
-            string sortDir = "asc")
+            string sortDir = "asc",
+            string? category = null)
         {
             var query = _bookContext.Books.AsQueryable();
+
+            if (!string.IsNullOrWhiteSpace(category))
+            {
+                query = query.Where(b => b.Category == category);
+            }
 
             if (!string.IsNullOrWhiteSpace(sortBy) && sortBy.ToLower() == "title")
             {
@@ -45,6 +51,18 @@ namespace WaterProject.API.Controllers
             };
 
             return Ok(someObject);
+        }
+
+        [HttpGet("Categories")]
+        public IActionResult GetCategories()
+        {
+            var categories = _bookContext.Books
+                .Select(b => b.Category)
+                .Distinct()
+                .OrderBy(c => c)
+                .ToList();
+
+            return Ok(categories);
         }
     }
 }

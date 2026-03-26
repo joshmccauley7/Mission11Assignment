@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joshm\\Desktop\\BYU\\IS 413\\Mission11Assignment\\backend\\Mission11Assignment.API\\Mission11Assignment.API.csproj": {}
+    "C:\\Users\\joshm\\Desktop\\BYU\\IS 413\\Mission11Assignment\\backend\\mission11assignment.api\\Mission11Assignment.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joshm\\Desktop\\BYU\\IS 413\\Mission11Assignment\\backend\\Mission11Assignment.API\\Mission11Assignment.API.csproj": {
+    "C:\\Users\\joshm\\Desktop\\BYU\\IS 413\\Mission11Assignment\\backend\\mission11assignment.api\\Mission11Assignment.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joshm\\Desktop\\BYU\\IS 413\\Mission11Assignment\\backend\\Mission11Assignment.API\\Mission11Assignment.API.csproj",
+        "projectUniqueName": "C:\\Users\\joshm\\Desktop\\BYU\\IS 413\\Mission11Assignment\\backend\\mission11assignment.api\\Mission11Assignment.API.csproj",
         "projectName": "Mission11Assignment.API",
-        "projectPath": "C:\\Users\\joshm\\Desktop\\BYU\\IS 413\\Mission11Assignment\\backend\\Mission11Assignment.API\\Mission11Assignment.API.csproj",
+        "projectPath": "C:\\Users\\joshm\\Desktop\\BYU\\IS 413\\Mission11Assignment\\backend\\mission11assignment.api\\Mission11Assignment.API.csproj",
         "packagesPath": "C:\\Users\\joshm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joshm\\Desktop\\BYU\\IS 413\\Mission11Assignment\\backend\\Mission11Assignment.API\\obj\\",
+        "outputPath": "C:\\Users\\joshm\\Desktop\\BYU\\IS 413\\Mission11Assignment\\backend\\mission11assignment.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

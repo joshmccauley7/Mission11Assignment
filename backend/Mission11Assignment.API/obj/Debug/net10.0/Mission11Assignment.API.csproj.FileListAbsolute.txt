@@ -64,3 +64,11 @@ C:\Users\joshm\Desktop\BYU\IS 413\Mission11Assignment\backend\Mission11Assignmen
 C:\Users\joshm\Desktop\BYU\IS 413\Mission11Assignment\backend\Mission11Assignment.API\obj\Debug\net10.0\Mission11Assignment.API.genruntimeconfig.cache
 C:\Users\joshm\Desktop\BYU\IS 413\Mission11Assignment\backend\Mission11Assignment.API\obj\Debug\net10.0\ref\Mission11Assignment.API.dll
 C:\Users\joshm\Desktop\BYU\IS 413\Mission11Assignment\backend\mission11assignment.api\obj\Debug\net10.0\Mission11Assignment.API.sourcelink.json
+C:\Users\joshm\Desktop\BYU\IS 413\Mission11Assignment\backend\Mission11Assignment.api\bin\Debug\net10.0\publish\web.config
+C:\Users\joshm\Desktop\BYU\IS 413\Mission11Assignment\backend\Mission11Assignment.api\bin\Debug\net10.0\publish\appsettings.Development.json
+C:\Users\joshm\Desktop\BYU\IS 413\Mission11Assignment\backend\Mission11Assignment.api\bin\Debug\net10.0\publish\appsettings.json
+C:\Users\joshm\Desktop\BYU\IS 413\Mission11Assignment\backend\Mission11Assignment.api\bin\Debug\net10.0\publish\Mission11Assignment.API.deps.json
+C:\Users\joshm\Desktop\BYU\IS 413\Mission11Assignment\backend\Mission11Assignment.api\bin\Debug\net10.0\publish\Mission11Assignment.API.runtimeconfig.json
+C:\Users\joshm\Desktop\BYU\IS 413\Mission11Assignment\backend\Mission11Assignment.api\bin\Debug\net10.0\publish\Mission11Assignment.API.staticwebassets.endpoints.json
+C:\Users\joshm\Desktop\BYU\IS 413\Mission11Assignment\backend\Mission11Assignment.api\bin\Debug\net10.0\publish\routes.json
+C:\Users\joshm\Desktop\BYU\IS 413\Mission11Assignment\backend\Mission11Assignment.api\bin\Debug\net10.0\Bookstore.sqlite

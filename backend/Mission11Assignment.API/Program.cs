@@ -15,7 +15,7 @@ builder.Services.AddDbContext<BookDbContext>(options =>
 builder.Services.AddCors(options =>
     options.AddPolicy("AllowReactAppBlah",
     policy => {
-        policy.WithOrigins("http://localhost:3000")
+        policy.WithOrigins("http://localhost:3000", "https://nice-ground-058e6311e.1.azurestaticapps.net")
             .AllowAnyHeader()
             .AllowAnyMethod();
 }));

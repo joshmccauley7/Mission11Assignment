@@ -1,6 +1,6 @@
-import type { Book } from "./Book";
-
 export interface CartItem {
-  book: Book;
+  bookId: number;
+  bookTitle: string;
+  bookPrice: number;
   quantity: number;
 }
